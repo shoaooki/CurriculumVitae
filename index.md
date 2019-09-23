@@ -4,7 +4,7 @@
 
 ![](./as.png)
 
-|key|value|
+|||
 |----|----|
 |Name|<ruby><rb>青木</rb><rt>あおき</rt>　</ruby><ruby><rb>翔</rb><rt>しょう</rt></ruby> / Sho Aoki|
 |BirthDay|10/11|
@@ -109,10 +109,12 @@
 - [WAVEAT ReLIGHT](https://itunes.apple.com/jp/app/waveat-relight/id1329844282) → AppStore ゲーム＞ミュージック 有料ランキング 10位
 - [WAVEAT](https://itunes.apple.com/jp/app/waveat/id1093169434)
 
-`Swift` `Xcode` `CocoaPods` `SwiftLint` `Realm`  
-`fastlane` `Carthage` `Bitrise` `DeployGate`  
-`Firebase` `Crashlytics` `BigQuery`  
-`Sketch` `AfterEffects`  
+|||
+|----|----|
+|開発|`Swift` `SpriteKit` `Xcode` `CocoaPods` `SwiftLint` `Realm`|
+|CI / CD|`fastlane` `Carthage` `Bitrise` `DeployGate`| 
+|ログ / Push|`Firebase` `Crashlytics` `BigQuery`|
+|グラフィック / UI|`Sketch` `AfterEffects`|
 
 ### グラフィック制作
 
