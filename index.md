@@ -49,15 +49,15 @@
 
 ##### エンジニア分野
 
-**Yahoo!天気 アプリ** - 新機能開発, 運用, 保守
-- iOS開発 ( ネイティブ, WebView FE, Push API, Bot )
+**Yahoo!天気** - 新機能開発, 運用, 保守
+- iOSアプリ開発 ( ネイティブ, WebView FE, Push API, Bot )
 
 **Yahoo!ジオシティーズ** - 新機能開発, リニューアル, 運用, 保守, クローズ
 - Web FE 開発
 - ユーザー情報管理API 開発
 
-**YDN 広告SDK** (非公開)
-- iOS開発
+**Yahoo!広告**
+- iOS SDK 開発リード
 
 ##### デザイナー分野
 
