@@ -92,6 +92,9 @@
 **[Osaka Mix Leap LT #9 - LT会「音楽」](https://yahoo-osaka.connpass.com/event/98293/)**
 - 「音楽ゲーム20年の歴史（仮）」
 
+**[Mix Leap Study \#55 \- ヤフーiOSオールスターズ（中継開催） \- connpass](https://yahoo-osaka.connpass.com/event/159189/)**
+- 「ヤフー大阪のiOSエンジニアが答える質疑応答タイム」
+
 ### 記事
 
 **[Yahoo! JAPANのエンジニアとガチお見合い！年収から開発の裏側まで全部聞いてきた](https://persol-tech-s.co.jp/i-engineer/interesting/omiai_yahoo)**
@@ -99,6 +102,12 @@
 
 **[クラッシュで「アプリ継続率」に10％の影響が。世界2,000アプリが利用する解析ツール「SmartBeat」に聞く、顧客満足度を高めるクラッシュ率の活用法](https://appmarketinglabo.net/smartbeat-crashrate/)**
 - 利用者コメント掲載
+
+**[動画広告のクリエイティブはどうやって作る？ 現場で使っているツールを紹介します｜Yahoo\! JAPAN アドクリエイティブメモ（公式）｜note](https://note.com/yahoo_ad_memo/n/na5b1427e11bb)**
+- 執筆
+
+**[静止画素材だけでもOK！動きの力で効果的な動画広告を作る｜Yahoo\! JAPAN アドクリエイティブメモ（公式）｜note](https://note.com/yahoo_ad_memo/n/n08ba3aebc43c)**
+- 執筆
 
 ## 個人活動 / 趣味 / 副業
 
