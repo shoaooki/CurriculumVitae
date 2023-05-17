@@ -81,20 +81,6 @@
 
 ## 発信
 
-### 登壇
-
-**[Osaka Mix Leap Study #1 - Android / iOS](https://yahoo-osaka.connpass.com/event/70653/)**
-- 「Yahoo!天気アプリのiPhoneX対応」
-
-**[Bonfire iOS #3](https://yj-meetup.connpass.com/event/71599/)**
-- 「Yahoo!天気アプリを少人数でも支えられた理由」
-
-**[【学生エンジニア限定】Osaka Mix Leap - 大阪サービス紹介](https://yahoo-osaka.connpass.com/event/74475/)**
-- 「1日600万人が利用する天気アプリを支える仕事（Yahoo!天気）」
-
-**[Mix Leap Study \#55 \- ヤフーiOSオールスターズ（中継開催） \- connpass](https://yahoo-osaka.connpass.com/event/159189/)**
-- 「ヤフー大阪のiOSエンジニアが答える質疑応答タイム」
-
 ### 記事
 
 **[iOS向けSDKの完全Swift対応と配布形態の刷新 〜 Yahoo!広告のモダン化事例](https://techblog.yahoo.co.jp/entry/2022120330379850/)**
@@ -111,6 +97,20 @@
 
 **[Yahoo! JAPANのエンジニアとガチお見合い！年収から開発の裏側まで全部聞いてきた](https://persol-tech-s.co.jp/i-engineer/interesting/omiai_yahoo)**
 - 取材協力
+
+### 登壇
+
+**[Osaka Mix Leap Study #1 - Android / iOS](https://yahoo-osaka.connpass.com/event/70653/)**
+- 「Yahoo!天気アプリのiPhoneX対応」
+
+**[Bonfire iOS #3](https://yj-meetup.connpass.com/event/71599/)**
+- 「Yahoo!天気アプリを少人数でも支えられた理由」
+
+**[【学生エンジニア限定】Osaka Mix Leap - 大阪サービス紹介](https://yahoo-osaka.connpass.com/event/74475/)**
+- 「1日600万人が利用する天気アプリを支える仕事（Yahoo!天気）」
+
+**[Mix Leap Study \#55 \- ヤフーiOSオールスターズ（中継開催） \- connpass](https://yahoo-osaka.connpass.com/event/159189/)**
+- 「ヤフー大阪のiOSエンジニアが答える質疑応答タイム」
 
 ## 個人活動 / 趣味 / 副業
 
