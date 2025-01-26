@@ -33,10 +33,10 @@
 ### グラフィックデザイン
 
 - Adobe After Effects
+- Figma
 - Sketch
 - Adobe Photoshop
 - Adobe Illustrator
-- Adobe XD
 - CINEMA4D
 
 ## 経歴
@@ -50,13 +50,23 @@
 **Yahoo!広告**
 - iOS SDK ヤフー広告 開発リード
   - IAB Tech Lab 提供 Open Measurement SDK 導入
-  - Objective-C言語からSwift言語への書き換え、XCFramework, Swift Package Manager対応
+    - 各サービスアプリへの動作確認用SDK開発
+  - Objective-C言語からSwift言語への書き換え
+  - XCFramework, Swift Package Manager対応
+  - SwiftUI対応
 - iOS SDK ヤフー広告 広告識別子ライブラリ 開発リード
   - App Tracking Transparency 対応
+  - App Privacy 対応
 
 **Yahoo!天気** - 新機能開発, 運用, 保守
 - iOS アプリ 開発リード ( ネイティブ, WebView FE, Push API, Bot )
   - iOS14 ホーム画面ウィジェット対応
+  - 雨雲レーダーの時間延長・モード追加
+  - 「みんなで実況！今の天気」（実況機能）刷新
+  - Siriショートカット対応
+  - プッシュ通知設定画面の刷新
+  - Apple 審査リジェクト緊急対応
+  - iPhone X 対応
 
 **Yahoo!ジオシティーズ** - 新機能開発, リニューアル, 運用, 保守, クローズ
 - Web FE 開発
